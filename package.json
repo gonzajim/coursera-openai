@@ -1,0 +1,22 @@
+{
+  "name": "coursera",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx tsc && node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.1",
+    "inquirer": "^8.2.6",
+    "modern-async": "^1.1.4",
+    "openai": "^4.26.1"
+  },
+  "description": ""
+}
